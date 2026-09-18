@@ -441,10 +441,10 @@ You must:
 1. Fork this repo.
 
 1. Modify the code block below so that it contains the output of the command below
-    ```bash
-    $ qwen 'what is .bashrc?'
-`.bashrc` is a hidden configuration file located in your home directory that stores settings for the Bash shell. It automatically executes each time you open a new terminal, allowing you to customize your environment with variables, aliases, and prompt settings.
-    ```
+```bash
+$ qwen 'what is .bashrc?'
+.bashrc is a hidden configuration file located in your home directory that stores settings for the Bash shell. It automatically executes each time you open a new terminal, allowing you to customize your environment with variables, aliases, and prompt settings.
+```
 
 1. Push your changes to github.
 
